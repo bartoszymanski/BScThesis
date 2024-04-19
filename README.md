@@ -1,1 +1,2 @@
-# BScThesis
+## Implementacja algorytmu opartego na uczeniu maszynowym do rozpoznawania figur szachowych na zdjęciach szachownicy
+Celem pracy było opracowanie algorytmu uczenia maszynowego do rozpoznawania figur szachowych na zdjęciach szachownicy, jako alternatywy dla szachownic elektronicznych DGT. Projekt koncentrował się na implementacji trzech modeli: dwóch modeli splotowych sieci neuronowych (CNN) oraz algorytmu YOLO. Każdy model został dokładnie omówiony, począwszy od analizy zbioru danych, przez implementację i trening, aż po ocenę wyników. Dodatkowo, praca zawierała porównanie tych modeli, aby wyłonić najbardziej efektywne rozwiązanie.
